@@ -61,7 +61,9 @@ If I had more time, I would definetly improve the asthetic of the game and the f
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+
+https://user-images.githubusercontent.com/69220191/164881799-90c203b4-49eb-4214-87ed-c9523c35cf82.mp4
+
 
 
 ## License
